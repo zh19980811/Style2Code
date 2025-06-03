@@ -1,0 +1,535 @@
+{
+    "summary": {
+        "code1_avg_naming_score": 0.9,
+        "code2_avg_naming_score": 0.92,
+        "improved_names": [],
+        "regressed_names": [],
+        "empty_line_kl_score": 0.0,
+        "space_kl_score": 2.1854
+    },
+    "code1_naming_scores": {
+        "constant:PI": {
+            "starts_with_letter": true,
+            "is_upper_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:b": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:f": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:e": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:a": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:x": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:y": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:PI": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "variable:print": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:Exception": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "variable:self": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:d": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:c": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "class:my_class": {
+            "starts_with_letter": true,
+            "is_pascal_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "function:__init__": {
+            "starts_with_letter": false,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.33
+        },
+        "function:longFunctionNameWithLotsOfArgs": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "function:processData": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "parameter:b": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:f": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:e": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:a": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:x": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:y": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:self": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:d": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:c": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "attribute:Value": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        }
+    },
+    "code2_naming_scores": {
+        "constant:MAX_RETRIES": {
+            "starts_with_letter": true,
+            "is_upper_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:request": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:MAX_RETRIES": {
+            "starts_with_letter": true,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.67
+        },
+        "variable:x": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:y": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:range": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:_": {
+            "starts_with_letter": false,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.33
+        },
+        "variable:url": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:retries": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:response": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "variable:self": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "class:MyClass": {
+            "starts_with_letter": true,
+            "is_pascal_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "function:__init__": {
+            "starts_with_letter": false,
+            "is_snake_case": false,
+            "is_keyword": false,
+            "score": 0.33
+        },
+        "function:fetch_data": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "function:process_data": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:x": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:y": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:url": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:retries": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "parameter:self": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        },
+        "attribute:value": {
+            "starts_with_letter": true,
+            "is_snake_case": true,
+            "is_keyword": false,
+            "score": 1.0
+        }
+    },
+    "code1_function_scores": {
+        "longFunctionNameWithLotsOfArgs": {
+            "score": 5.71,
+            "details": {
+                "length": [
+                    5,
+                    1
+                ],
+                "arguments": [
+                    6,
+                    0
+                ],
+                "docstring": [
+                    false,
+                    0
+                ],
+                "try_except": [
+                    true,
+                    1
+                ],
+                "name_style": [
+                    "longFunctionNameWithLotsOfArgs",
+                    0
+                ],
+                "return_count": [
+                    1,
+                    1
+                ],
+                "call_depth": [
+                    1,
+                    1
+                ]
+            }
+        },
+        "processData": {
+            "score": 4.29,
+            "details": {
+                "length": [
+                    2,
+                    1
+                ],
+                "arguments": [
+                    1,
+                    1
+                ],
+                "docstring": [
+                    false,
+                    0
+                ],
+                "try_except": [
+                    false,
+                    0
+                ],
+                "name_style": [
+                    "processData",
+                    0
+                ],
+                "return_count": [
+                    0,
+                    0
+                ],
+                "call_depth": [
+                    0,
+                    1
+                ]
+            }
+        },
+        "__init__": {
+            "score": 7.14,
+            "details": {
+                "length": [
+                    3,
+                    1
+                ],
+                "arguments": [
+                    3,
+                    1
+                ],
+                "docstring": [
+                    false,
+                    0
+                ],
+                "try_except": [
+                    false,
+                    0
+                ],
+                "name_style": [
+                    "__init__",
+                    1
+                ],
+                "return_count": [
+                    1,
+                    1
+                ],
+                "call_depth": [
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "code2_function_scores": {
+        "fetch_data": {
+            "score": 10.0,
+            "details": {
+                "length": [
+                    9,
+                    1
+                ],
+                "arguments": [
+                    2,
+                    1
+                ],
+                "docstring": [
+                    true,
+                    1
+                ],
+                "try_except": [
+                    true,
+                    1
+                ],
+                "name_style": [
+                    "fetch_data",
+                    1
+                ],
+                "return_count": [
+                    2,
+                    1
+                ],
+                "call_depth": [
+                    1,
+                    1
+                ]
+            }
+        },
+        "process_data": {
+            "score": 7.14,
+            "details": {
+                "length": [
+                    3,
+                    1
+                ],
+                "arguments": [
+                    1,
+                    1
+                ],
+                "docstring": [
+                    true,
+                    1
+                ],
+                "try_except": [
+                    false,
+                    0
+                ],
+                "name_style": [
+                    "process_data",
+                    1
+                ],
+                "return_count": [
+                    0,
+                    0
+                ],
+                "call_depth": [
+                    0,
+                    1
+                ]
+            }
+        },
+        "__init__": {
+            "score": 7.14,
+            "details": {
+                "length": [
+                    3,
+                    1
+                ],
+                "arguments": [
+                    3,
+                    1
+                ],
+                "docstring": [
+                    false,
+                    0
+                ],
+                "try_except": [
+                    false,
+                    0
+                ],
+                "name_style": [
+                    "__init__",
+                    1
+                ],
+                "return_count": [
+                    1,
+                    1
+                ],
+                "call_depth": [
+                    0,
+                    1
+                ]
+            }
+        }
+    },
+    "style_stats": {
+        "code1": {
+            "uppercase_ratio": 0.125,
+            "lowercase_ratio": 0.827,
+            "underscore_ratio": 0.048,
+            "digit_ratio": 0.0,
+            "symbol_ratio": 0.0
+        },
+        "code2": {
+            "uppercase_ratio": 0.188,
+            "lowercase_ratio": 0.735,
+            "underscore_ratio": 0.077,
+            "digit_ratio": 0.0,
+            "symbol_ratio": 0.0
+        }
+    },
+    "style_distribution": {
+        "code1": {
+            "PascalCase": 4,
+            "snake_case": 20,
+            "dunder_method": 1,
+            "camelCase": 2
+        },
+        "code2": {
+            "UPPER_CASE": 2,
+            "snake_case": 16,
+            "private": 1,
+            "PascalCase": 1,
+            "dunder_method": 1
+        }
+    }
+}
