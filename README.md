@@ -88,7 +88,7 @@ python eval/runner.py
 
 We have shared pre-trained Style2Code model weights on Hugging Face for fine-tuning on downstream tasks:
 👉 [Model checkpoint](https://huggingface.co/DUTAOZHANG/Styele2Code_model2/upload/main)
-
+👉 [Train checkpoint](https://huggingface.co/datasets/DUTAOZHANG/Style2Code_datasets)
 ---
 
 ## 📄 Citation
