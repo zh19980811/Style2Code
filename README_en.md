@@ -7,6 +7,7 @@ Here is the English version of the README file for your Style2Code project:
 📄 Paper: [arXiv:2505.19442](https://arxiv.org/abs/2505.19442)
 📦 Hugging Face Model Checkpoint: [Visit here](https://huggingface.co/DUTAOZHANG/Styele2Code_model2/upload/main)
 📦 Training Dataset: Not yet released
+[English version](README_en.md) | [中文版](README_zh.md)
 
 ---
 
