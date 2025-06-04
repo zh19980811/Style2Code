@@ -5,6 +5,7 @@
 📄 论文: [arXiv:2505.19442](https://arxiv.org/abs/2505.19442)
 📦 Hugging Face 模型权重: [点击访问](https://huggingface.co/DUTAOZHANG/Styele2Code_model2/upload/main)
 📦 训练数据集: 尚未公开
+[English version](README_en.md) | [中文版](README_zh.md)
 
 ---
 
