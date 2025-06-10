@@ -10,7 +10,7 @@ Here is the English version of the README file for your Style2Code project:
 [English version](README.md) | [中文版](README_zh.md)
 
 ---
-
+![Sturcture](QQ_1749537715460.png
 ## 🚀 Project Features
 
 ✅ **Two-stage training process**:
